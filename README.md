@@ -5,5 +5,5 @@ Un server irc très très basique. Seul les fonctionnalités necessaires à pyIr
 
 ## Usage
 
-  python3 pyircserver <port>
+`python3 pyircserver <port>`
 
